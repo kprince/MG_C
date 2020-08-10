@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MG_PopPanel_Reward
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3e31762f42532a84fa2a170fb08a16a4, type: 3}
+    totalSpriteSurfaceArea: 1402770
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ebf0b34046c47dc45b0129673b4e0bc0, type: 3}
+  - {fileID: 21300000, guid: 03161880da2d4c74eb6ca7e547ca40a9, type: 3}
+  - {fileID: 21300000, guid: fc93de80878f18f43b1b3d64b1b62fa6, type: 3}
+  - {fileID: 21300000, guid: a50215b1178f254468ce8a2e6d769590, type: 3}
+  - {fileID: 21300000, guid: 17a07a64f5ec4534099818f775b44f9e, type: 3}
+  - {fileID: 21300000, guid: 1474e935665f70d4097f12ab2953e32a, type: 3}
+  - {fileID: 21300000, guid: b52a15758fe51b44094d711dfa348a18, type: 3}
+  - {fileID: 21300000, guid: 4fc01b366c961f54a85ee313a9afda53, type: 3}
+  - {fileID: 21300000, guid: 731de1b8edf174b44b23344acbe040fd, type: 3}
+  - {fileID: 21300000, guid: 926018f814d128e45889321a201f8484, type: 3}
+  - {fileID: 21300000, guid: 82871c39324b556449989ca1b2ccb0d5, type: 3}
+  - {fileID: 21300000, guid: 9ea80449c993b3b4e9b1002632f6920f, type: 3}
+  - {fileID: 21300000, guid: b4e697e9495539b4f8e1c06a5a243501, type: 3}
+  - {fileID: 21300000, guid: 5ef7fe5b9e33f6d4c8110a3952c4ed1d, type: 3}
+  - {fileID: 21300000, guid: 4e8ceccb1640c6c4f9f164e3d60cb081, type: 3}
+  - {fileID: 21300000, guid: 733ad92c310d0ea4e81379e1219800e5, type: 3}
+  - {fileID: 21300000, guid: a8fb140d4cdd6654eb6294d7f584dbbf, type: 3}
+  - {fileID: 21300000, guid: 3cf8692d0d92b774db3ef2f1385e2676, type: 3}
+  - {fileID: 21300000, guid: 33d048ce710d40d4ebeb5b0a71d02746, type: 3}
+  - {fileID: 21300000, guid: 3271f05fa3eb9e945847499739766d9a, type: 3}
+  - {fileID: 21300000, guid: 90e51f7fc1363e147bbf422ee3f2d283, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MG_Sprite_Reward_Base
+  - MG_Sprite_Common_AdIcon 1
+  - MG_Sprite_Reward_AdIcon
+  - MG_Sprite_Reward_Title2
+  - MG_Sprite_Common_Close 1
+  - MG_Sprite_Common_ShortButton 1
+  - MG_Sprite_Reward_Base2
+  - MG_Sprite_Reward_ScratchTicket
+  - MG_Sprite_Reward_RedDiamond
+  - MG_Sprite_Common_LongButton 1
+  - MG_Sprite_Reward_Gold
+  - MG_Sprite_Reward_StarCoin
+  - MG_Sprite_Reward_Title
+  - MG_Sprite_Reward_Diamond
+  - MG_Sprite_Reward_LongButton
+  - MG_Sprite_Reward_Watermalen
+  - MG_Sprite_BuyEnergy_Icon
+  - MG_Sprite_Reward_WheelTicket
+  - MG_Sprite_Reward_Cherry
+  - MG_Sprite_Reward_Orange
+  - MG_Sprite_Reward_SSS
+  m_Tag: MG_PopPanel_Reward
+  m_IsVariant: 0

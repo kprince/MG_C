@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MG_PopPanel_OutWheel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 11e7869b46e71f942b8a968915d2459a, type: 3}
+    totalSpriteSurfaceArea: 2311896
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9f775cd06865c7746ade55a120d3eb8f, type: 3}
+  - {fileID: 21300000, guid: 523145f457a737f4bb7d6e0ff1c8aadb, type: 3}
+  - {fileID: 21300000, guid: a533c147684892f4eb23d2195c72ec91, type: 3}
+  - {fileID: 21300000, guid: bfff881880b1d57458ef4cb37e94121e, type: 3}
+  - {fileID: 21300000, guid: de76d1f81a929bd4cb28c2cb1820e975, type: 3}
+  - {fileID: 21300000, guid: 745902494e3a96d49ae450e6ad77fd26, type: 3}
+  - {fileID: 21300000, guid: c201d76935a826f4b8fc46e763b9233a, type: 3}
+  - {fileID: 21300000, guid: 1f3cedad080ddf4419db126eedbdf91d, type: 3}
+  - {fileID: 21300000, guid: 3f5caa2fae30ef44c9f2a43448dff1e6, type: 3}
+  - {fileID: 21300000, guid: 872c527f0f2be594688ee6e30a4ca6dc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MG_Sprite_OutWheel_MidHandle
+  - MG_Sprite_OutWheel_BaseOut
+  - MG_Sprite_OutWheel_Spin_f
+  - MG_Sprite_OutWheel_Title
+  - MG_Sprite_OutWheel_BaseIn
+  - MG_Sprite_OutWheel_Title_f
+  - MG_Sprite_OutWheel_Spin
+  - MG_Sprite_OutWheel_BaseOut_f
+  - MG_Sprite_OutWheel_CenterHandle
+  - MG_Sprite_OutWheel_Close
+  m_Tag: MG_PopPanel_OutWheel
+  m_IsVariant: 0

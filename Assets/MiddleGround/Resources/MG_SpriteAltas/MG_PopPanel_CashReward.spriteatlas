@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MG_PopPanel_CashReward
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 94f7c782271353c4181ed9587e9922c7, type: 3}
+    totalSpriteSurfaceArea: 982534
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b4edb7a3ba8ea6a4993cecdf126319da, type: 3}
+  - {fileID: 21300000, guid: 89d803276ceaaf446be89e2e4c56f095, type: 3}
+  - {fileID: 21300000, guid: 0c6c759a7ff85564eb64aa34fbc0e2c4, type: 3}
+  - {fileID: 21300000, guid: 1e627edbc9fb0924385252fbdd66324f, type: 3}
+  - {fileID: 21300000, guid: 15ba639f6a7cb4b4abc4796d995140c0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MG_Sprite_CashPop_Light
+  - MG_Sprite_Common_Close 1
+  - MG_Sprite_Common_LongButton 1
+  - MG_Sprite_Common_AdIcon 1
+  - MG_Sprite_CashReward_CashIconB
+  m_Tag: MG_PopPanel_CashReward
+  m_IsVariant: 0

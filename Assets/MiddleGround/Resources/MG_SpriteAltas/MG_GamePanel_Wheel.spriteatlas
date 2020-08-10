@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MG_GamePanel_Wheel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e7e3aded380b0de468ffa677ef1fd17a, type: 3}
+    totalSpriteSurfaceArea: 2215158
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9c6f81a03493ff141a0e2f2cf3d62630, type: 3}
+  - {fileID: 21300000, guid: d3f0c221f1aca1244afd686bcd9065e3, type: 3}
+  - {fileID: 21300000, guid: f3e7f8613bc72a4438576d0db3215420, type: 3}
+  - {fileID: 21300000, guid: 69cd11524d829404f92e727ac822bd2f, type: 3}
+  - {fileID: 21300000, guid: d4e8d964dc8a3de49b294a12f7918e02, type: 3}
+  - {fileID: 21300000, guid: 0fc48d5508dfce742881659a541db0a7, type: 3}
+  - {fileID: 21300000, guid: a5ab69858fe54e8428c4ec355c46426e, type: 3}
+  - {fileID: 21300000, guid: e0070f261a5d94c48a0ec884b947c9d9, type: 3}
+  - {fileID: 21300000, guid: 6cabd868104f70a4087bd792b427fd08, type: 3}
+  - {fileID: 21300000, guid: e5872bd815a9a9f44b38c407aaf09f16, type: 3}
+  - {fileID: 21300000, guid: 79fb32aab94e74b4bbdcfbdf173c00ed, type: 3}
+  - {fileID: 21300000, guid: 8703db6ba9e47ba42a847ea29d6e365b, type: 3}
+  - {fileID: 21300000, guid: 7b2830dc33cf58f49adc63e0b3826d74, type: 3}
+  - {fileID: 21300000, guid: 74f9a5ad5b789c14d90d8ed9dd8425e5, type: 3}
+  - {fileID: 21300000, guid: f5c35d4e3bcbe9f4ebba478a55d77d85, type: 3}
+  - {fileID: 21300000, guid: 7125689e7e1f7a54f8ca44fa07cd41d6, type: 3}
+  - {fileID: 21300000, guid: a55671ee5097ea144a987bb532f54e65, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MG_Sprite_Wheel_Diamond
+  - MG_Sprite_Wheel_TicketIcon
+  - MG_Sprite_Common_AdIcon 1
+  - MG_Sprite_Wheel_CenterHandle
+  - MG_Sprite_Common_ShortButton 1
+  - MG_Sprite_Wheel_BaseOut
+  - MG_Sprite_Wheel_BaseIn
+  - MG_Sprite_Wheel_LockMask
+  - MG_Sprite_Wheel_WheelTicket
+  - MG_Sprite_Wheel_StarCoin
+  - MG_Sprite_Wheel_Gift
+  - MG_Sprite_Wheel_Scratch
+  - MG_Sprite_Wheel_Cash
+  - MG_Sprite_Wheel_Gold
+  - MG_Sprite_Wheel_Notice
+  - MG_Sprite_Wheel_RedDiamond
+  - MG_Sprite_Wheel_MidHandle
+  m_Tag: MG_GamePanel_Wheel
+  m_IsVariant: 0

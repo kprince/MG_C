@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MG_MenuPanel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e5fccc039d1d8074ea92a3c4fe5150f6, type: 3}
+    totalSpriteSurfaceArea: 1815689
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e00fef00b9f00b64aa0ce0f981a0e0d1, type: 3}
+  - {fileID: 21300000, guid: 2c4dae90183d3f84a909f1af19c12fbf, type: 3}
+  - {fileID: 21300000, guid: 258f1e312d9461d4cbcf894b8d134329, type: 3}
+  - {fileID: 21300000, guid: 3d1b2591e3ae25c4e9bfb576d871bf78, type: 3}
+  - {fileID: 21300000, guid: 292bb9b166ec5c14cbb897bbe5a42c39, type: 3}
+  - {fileID: 21300000, guid: f3e01d4231bb3ef4d98a1207e14c9cef, type: 3}
+  - {fileID: 21300000, guid: da33d4b2b36c02349a186e8d041fdc26, type: 3}
+  - {fileID: 21300000, guid: fad57ac35aa94a84cb0e168bf9baa0fe, type: 3}
+  - {fileID: 21300000, guid: 1a8fc4e3ab2e13045bf99088ad9c57cc, type: 3}
+  - {fileID: 21300000, guid: ea8839a47bcbb6041a3c5f975c1a4b7f, type: 3}
+  - {fileID: 21300000, guid: a71254d415de0664687da46fb22b3478, type: 3}
+  - {fileID: 21300000, guid: 2ffdc0559901f8f449afb8ee93ff9247, type: 3}
+  - {fileID: 21300000, guid: bc00256586073a44791c0e5d66e9dbc9, type: 3}
+  - {fileID: 21300000, guid: 2b01f7951fb364847a96e5c35ba73e59, type: 3}
+  - {fileID: 21300000, guid: 6e698d06ba74a4c4a9248c987808e1d0, type: 3}
+  - {fileID: 21300000, guid: 3f173657ccb5d1945b14a1499fdbf1f9, type: 3}
+  - {fileID: 21300000, guid: 95f28d1833927e448adc41926b27ab8c, type: 3}
+  - {fileID: 21300000, guid: 1056703831f08034a9b2a7cd8b63b359, type: 3}
+  - {fileID: 21300000, guid: 1e4db0d8dcd7dd04a970587eb7c49ac9, type: 3}
+  - {fileID: 21300000, guid: 9642ace8c9ff1cf478ffdb6dcb7ad499, type: 3}
+  - {fileID: 21300000, guid: a354d8790405223449f446d6ff535fef, type: 3}
+  - {fileID: 21300000, guid: e745a3899a222b74db9f007c5fbb901e, type: 3}
+  - {fileID: 21300000, guid: be4e6d898a436cc49b7bd885a977d15d, type: 3}
+  - {fileID: 21300000, guid: c71281eaa0505df4584f7f1425ee1898, type: 3}
+  - {fileID: 21300000, guid: 07dd912b8426a854a9309eec050841e3, type: 3}
+  - {fileID: 21300000, guid: c7fe9e3b5c5d67d4f8dda65e5cd18803, type: 3}
+  - {fileID: 21300000, guid: de8d3c9bd8a650940821bda2cdf3e9d8, type: 3}
+  - {fileID: 21300000, guid: 6c7e04bcdbe18c54c909a539bfe35746, type: 3}
+  - {fileID: 21300000, guid: 6b3d57bcc84a3144aae1567862002440, type: 3}
+  - {fileID: 21300000, guid: c6d345cc92c42bd409ec9cdc4d5cbcc2, type: 3}
+  - {fileID: 21300000, guid: 17f512ecf7833df47ae881baef08afb2, type: 3}
+  - {fileID: 21300000, guid: 155761ed35fc2ad4ea74e9081456f0d7, type: 3}
+  - {fileID: 21300000, guid: 2b205beda1b1c3645b474b40a6ec9d57, type: 3}
+  - {fileID: 21300000, guid: 2ff0745e75ac10046a464cfe580b73bd, type: 3}
+  - {fileID: 21300000, guid: 846dd29ef0b0595469948d2a7f982b2a, type: 3}
+  - {fileID: 21300000, guid: c0f4089e8aaf86f448ebf5af1faabf08, type: 3}
+  - {fileID: 21300000, guid: da2915be4243b8548b91488282f0169b, type: 3}
+  - {fileID: 21300000, guid: 4ac4702f4b05419479c0f26c894a0949, type: 3}
+  - {fileID: 21300000, guid: 33a9647f26d284b48a6a3e43e5807204, type: 3}
+  - {fileID: 21300000, guid: 5274eabf14f25774fb847513accc0b67, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MG_Sprite_Menu_SlotsOff
+  - MG_Sprite_Menu_Setting
+  - MG_Menu_TopBG
+  - MG_Sprite_Menu_DiceToken
+  - MG_Sprite_Menu_TokenBg
+  - MG_Sprite_Menu_Gold
+  - MG_Sprite_Menu_SlotsOn
+  - MG_Sprite_Menu_ScratchTicketBG
+  - MG_Sprite_Menu_ScratchOff
+  - MG_Sprite_Menu_ScratchOn
+  - MG_Sprite_Menu_Guid_O
+  - MG_Sprite_Menu_WheelOff
+  - MG_Sprite_Menu_WheelOutLine
+  - MG_Sprite_Menu_Guid_G
+  - MG_Sprite_Menu_WheelOutBG
+  - MG_Sprite_Menu_GuidStarcoin
+  - MG_Sprite_Menu_SlotsA
+  - MG_Sprite_Menu_DiceOff
+  - MG_Sprite_Menu_CashoutNotice
+  - MG_Sprite_Menu_Signin
+  - MG_Sprite_Menu_Shop
+  - MG_Sprite_Menu_ScratchToken
+  - MG_Sprite_Menu_SlotsB
+  - MG_Sprite_Menu_Back
+  - MG_Sprite_Menu_GuidSSS
+  - MG_Sprite_Menu_GuidDiamond
+  - MG_Sprite_Menu_DiceOn
+  - MG_Sprite_Menu_RedPoint
+  - MG_Sprite_Menu_Bottom
+  - MG_Sprite_Menu_Wheel
+  - MG_Sprite_Menu_GuidDollar
+  - MG_Sprite_Menu_WheelOutBase
+  - MG_Sprite_Menu_WheelOn
+  - MG_Sprite_Menu_Guid_B
+  - MG_Sprite_Menu_Add
+  - MG_Sprite_Menu_RD
+  - MG_Sprite_Menu_SlotsToken
+  - MG_Sprite_Menu_WheelOutHandle
+  - MG_Sprite_Menu_WheelOutTimeBG
+  - MG_Sprite_Menu_CashB
+  m_Tag: MG_MenuPanel
+  m_IsVariant: 0

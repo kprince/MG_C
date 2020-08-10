@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MG_PopPanel_Shop
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0bbf4ebad9d1a3d46a12cbafceaaad93, type: 3}
+    totalSpriteSurfaceArea: 1814896
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 740b27001a88b104f90fdab0a348b49b, type: 3}
+  - {fileID: 21300000, guid: 329eebb0627ce1f4f980751d0ef08033, type: 3}
+  - {fileID: 21300000, guid: 34d523423f2be9a49a491d8140b981ad, type: 3}
+  - {fileID: 21300000, guid: cfb41b629f66e244a8a0481bad1e7933, type: 3}
+  - {fileID: 21300000, guid: 3550c7e20fdb8be41ae5dd0ac47747e2, type: 3}
+  - {fileID: 21300000, guid: 105f96d3c1db35a4986a495be8f4d481, type: 3}
+  - {fileID: 21300000, guid: 87fe19740c37bea47b88ede3fb7437b4, type: 3}
+  - {fileID: 21300000, guid: 0f9456a40afc53b4591d93ff3d773a20, type: 3}
+  - {fileID: 21300000, guid: 566f7cb4559e88d40bf969d9f463c1f4, type: 3}
+  - {fileID: 21300000, guid: 9fd51995706f699458baaaac6b94a9ca, type: 3}
+  - {fileID: 21300000, guid: e2430ff5c0bd76a40be2582c60c9ecf7, type: 3}
+  - {fileID: 21300000, guid: c9523e968b18e594a96fc31e060d116c, type: 3}
+  - {fileID: 21300000, guid: 295bebc60e888c943b3a02169cd8f056, type: 3}
+  - {fileID: 21300000, guid: 47cde917b4bb657438e6c2cbf36e9335, type: 3}
+  - {fileID: 21300000, guid: 863b33288ad694d43b7fbd5bc5c59c11, type: 3}
+  - {fileID: 21300000, guid: b7b8faa89e963424a92b3dd294eec021, type: 3}
+  - {fileID: 21300000, guid: 0983642924fd45b4abb54a4d858459b2, type: 3}
+  - {fileID: 21300000, guid: 7783e8494e3973d46b3a52a0eb8eb885, type: 3}
+  - {fileID: 21300000, guid: c2912a6918982f744849c30d20f5fd6f, type: 3}
+  - {fileID: 21300000, guid: 7216c44a7d680ae47b022fff1699a50e, type: 3}
+  - {fileID: 21300000, guid: e8c16e5ac2731924fa32877113b143e0, type: 3}
+  - {fileID: 21300000, guid: 63512a9a750c5b74f9ac04961ceabcd4, type: 3}
+  - {fileID: 21300000, guid: c5b4badadb3d4c946a992cf64851a201, type: 3}
+  - {fileID: 21300000, guid: f63f043becefb864ab4dd1f2f77ff6da, type: 3}
+  - {fileID: 21300000, guid: e30b82cbce26ece448eaa809ab377c9b, type: 3}
+  - {fileID: 21300000, guid: d1af10dbcb7137148ac6249c0619a138, type: 3}
+  - {fileID: 21300000, guid: 5ccde19c841248b41a004fe3dee7e3e0, type: 3}
+  - {fileID: 21300000, guid: f88a46ae2e8713447937a34d14f11ce6, type: 3}
+  - {fileID: 21300000, guid: bff1e0df04d7d5c4fb54a281cd157e2d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MG_Sprite_Shop_Dollar
+  - MG_Sprite_Shop_Cash
+  - MG_Sprite_Shop_RedDiamond2
+  - MG_Sprite_Shop_OneGold
+  - MG_Sprite_Shop_ItemBase
+  - MG_Sprite_Shop_BG
+  - MG_Sprite_Shop_Fruits
+  - MG_Sprite_Shop_Gold
+  - MG_Sprite_Shop_Button
+  - MG_Sprite_Shop_Diamond
+  - MG_Sprite_Shop_Claim
+  - MG_Sprite_Shop_Watermalen
+  - MG_Sprite_Shop_Towards
+  - MG_Sprite_Shop_Cherry
+  - MG_Sprite_Shop_SSS
+  - MG_Sprite_Shop_RedDiamond
+  - MG_Sprite_Shop_ItemBG
+  - MG_Sprite_Shop_SliderBG
+  - MG_Sprite_Shop_SignScratchTicket
+  - MG_Sprite_Shop_Gift
+  - MG_Sprite_Shop_Scratch
+  - MG_Sprite_Shop_SliderFill
+  - MG_Sprite_Shop_ScratchTicket
+  - MG_Sprite_Shop_Top
+  - MG_Sprite_Shop_Back
+  - MG_Sprite_Shop_StarCoin
+  - MG_Sprite_Shop_WheelTicket
+  - MG_Sprite_Shop_Orange
+  - MG_Sprite_Shop_Lucky777
+  m_Tag: MG_PopPanel_Shop
+  m_IsVariant: 0

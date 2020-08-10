@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MG_GamePanel_Slots
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4cb84c4f8ec81ef4fb55e0ab3c948a64, type: 3}
+    totalSpriteSurfaceArea: 1240716
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9a384b80cc51ec04bb275894e77c245c, type: 3}
+  - {fileID: 21300000, guid: 639bf6b0d5784b343bdd3bdaa9ad481c, type: 3}
+  - {fileID: 21300000, guid: 7d09f301bfdf63341917f2239797125b, type: 3}
+  - {fileID: 21300000, guid: 0f51e131d495d8e46a016baaa8d0a541, type: 3}
+  - {fileID: 21300000, guid: ae9de04219d5d7f49af36700ab4ce1a0, type: 3}
+  - {fileID: 21300000, guid: f6dfead3760747c43a40592f35bce802, type: 3}
+  - {fileID: 21300000, guid: 12b43f047e836b24fb90d1caab8467b0, type: 3}
+  - {fileID: 21300000, guid: dea0e5a4ceacb2842bd02109e3b52eed, type: 3}
+  - {fileID: 21300000, guid: 58696ff485fbcd3499a17499a2a832a9, type: 3}
+  - {fileID: 21300000, guid: 9e748b060a2c69749a48b8787f2ae23e, type: 3}
+  - {fileID: 21300000, guid: 5a7997c6e597ac64bb30956f20923cce, type: 3}
+  - {fileID: 21300000, guid: dc74294797bc39e419c5ed41b69410f8, type: 3}
+  - {fileID: 21300000, guid: e3b1c12918b89c54aa7c1e1d24df8e49, type: 3}
+  - {fileID: 21300000, guid: 5440136940969ad449c42c4057038a6b, type: 3}
+  - {fileID: 21300000, guid: 2ae8c06a00d7ce748831e61f28d48b0b, type: 3}
+  - {fileID: 21300000, guid: 8fadb11b619e3764c84609b9c6d97e6b, type: 3}
+  - {fileID: 21300000, guid: 6437a31b636c547478345b94755167df, type: 3}
+  - {fileID: 21300000, guid: 8388891c43365f6478295131ca5fb124, type: 3}
+  - {fileID: 21300000, guid: 5c38095cb0793d24fad9e01ac08109f1, type: 3}
+  - {fileID: 21300000, guid: e1075fbfa642bd84d860d4b55803bafd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MG_Sprite_Slots_MutipleNormal
+  - MG_Sprite_Slots_Title
+  - MG_Sprite_Slots_LightB
+  - MG_Sprite_Slots_MutiplePress
+  - MG_Sprite_Slots_Speedup
+  - MG_Sprite_Slots_LightA
+  - MG_Sprite_Slots_SpinMask
+  - MG_sprite_Slots_Fruit
+  - MG_Sprite_Slots_Again
+  - MG_sprite_Slots_FruitBG
+  - MG_Sprite_Slots_SpinButtonBg2
+  - MG_Sprite_Slots_Mask
+  - MG_Sprite_Slots_AdSpin
+  - MG_Sprite_Slots_GoldBG
+  - MG_Sprite_Slots_Spin
+  - MG_Sprite_Slots_SpinButtonBg
+  - MG_Sprite_Common_Lock 1
+  - MG_Sprite_Slots_LockBG
+  - MG_Sprite_Slots_Base
+  - MG_Sprite_Slots_GoldIcon
+  m_Tag: MG_GamePanel_Slots
+  m_IsVariant: 0

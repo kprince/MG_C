@@ -1,0 +1,724 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb62fcc1d8a52394385f16f3b4d200d5, type: 3}
+  m_Name: MG_Config
+  m_EditorClassIdentifier: 
+  MG_Dice_CashRange: 00000000a0860100400d030050340300605b0300485f030018670300e86e0300887e0300408a030010920300f8950300
+  MG_Dice_ExtraBonusConfigs:
+  - rangeIndex: 0
+    needTargetStep: 3
+    goldBonusRate: 0
+    cashBonusRate: 100
+    maxGoldBonus: 500
+    minGoldBonus: 200
+    maxCashBonus: 1200
+    minCashBonus: 1000
+  - rangeIndex: 1
+    needTargetStep: 3
+    goldBonusRate: 0
+    cashBonusRate: 100
+    maxGoldBonus: 500
+    minGoldBonus: 200
+    maxCashBonus: 1200
+    minCashBonus: 1000
+  - rangeIndex: 2
+    needTargetStep: 3
+    goldBonusRate: 0
+    cashBonusRate: 100
+    maxGoldBonus: 500
+    minGoldBonus: 200
+    maxCashBonus: 1200
+    minCashBonus: 1000
+  - rangeIndex: 3
+    needTargetStep: 3
+    goldBonusRate: 0
+    cashBonusRate: 100
+    maxGoldBonus: 500
+    minGoldBonus: 200
+    maxCashBonus: 1200
+    minCashBonus: 1000
+  - rangeIndex: 4
+    needTargetStep: 5
+    goldBonusRate: 0
+    cashBonusRate: 100
+    maxGoldBonus: 500
+    minGoldBonus: 200
+    maxCashBonus: 1200
+    minCashBonus: 1000
+  - rangeIndex: 5
+    needTargetStep: 6
+    goldBonusRate: 0
+    cashBonusRate: 100
+    maxGoldBonus: 500
+    minGoldBonus: 200
+    maxCashBonus: 600
+    minCashBonus: 500
+  - rangeIndex: 6
+    needTargetStep: 8
+    goldBonusRate: 0
+    cashBonusRate: 100
+    maxGoldBonus: 500
+    minGoldBonus: 200
+    maxCashBonus: 300
+    minCashBonus: 250
+  - rangeIndex: 7
+    needTargetStep: 10
+    goldBonusRate: 0
+    cashBonusRate: 100
+    maxGoldBonus: 500
+    minGoldBonus: 200
+    maxCashBonus: 120
+    minCashBonus: 100
+  - rangeIndex: 8
+    needTargetStep: 15
+    goldBonusRate: 0
+    cashBonusRate: 100
+    maxGoldBonus: 500
+    minGoldBonus: 200
+    maxCashBonus: 50
+    minCashBonus: 30
+  - rangeIndex: 9
+    needTargetStep: 15
+    goldBonusRate: 30
+    cashBonusRate: 70
+    maxGoldBonus: 500
+    minGoldBonus: 200
+    maxCashBonus: 30
+    minCashBonus: 20
+  - rangeIndex: 10
+    needTargetStep: 20
+    goldBonusRate: 50
+    cashBonusRate: 50
+    maxGoldBonus: 500
+    minGoldBonus: 200
+    maxCashBonus: 20
+    minCashBonus: 10
+  - rangeIndex: 11
+    needTargetStep: 20
+    goldBonusRate: 50
+    cashBonusRate: 50
+    maxGoldBonus: 500
+    minGoldBonus: 200
+    maxCashBonus: 20
+    minCashBonus: 1
+  MG_Dice_SpecialPropsConfigs:
+  - rangeIndex: 0
+    maxGoldReward: 500
+    minGoldReward: 200
+    maxCashReward: 2400
+    minCashReward: 2000
+    goldMutiple:
+    - 1
+    - 1.5
+    - 3
+    - 5
+    cashMutiple:
+    - 1
+  - rangeIndex: 1
+    maxGoldReward: 500
+    minGoldReward: 200
+    maxCashReward: 1500
+    minCashReward: 1000
+    goldMutiple:
+    - 1
+    - 1.5
+    - 3
+    - 5
+    cashMutiple:
+    - 1
+  - rangeIndex: 2
+    maxGoldReward: 500
+    minGoldReward: 200
+    maxCashReward: 1300
+    minCashReward: 1000
+    goldMutiple:
+    - 1
+    - 1.5
+    - 3
+    - 5
+    cashMutiple:
+    - 1
+  - rangeIndex: 3
+    maxGoldReward: 500
+    minGoldReward: 200
+    maxCashReward: 1200
+    minCashReward: 1000
+    goldMutiple:
+    - 1
+    - 1.5
+    - 3
+    - 5
+    cashMutiple:
+    - 1
+  - rangeIndex: 4
+    maxGoldReward: 500
+    minGoldReward: 200
+    maxCashReward: 600
+    minCashReward: 500
+    goldMutiple:
+    - 1
+    - 1.5
+    - 3
+    - 5
+    cashMutiple:
+    - 1
+  - rangeIndex: 5
+    maxGoldReward: 500
+    minGoldReward: 200
+    maxCashReward: 600
+    minCashReward: 500
+    goldMutiple:
+    - 1
+    - 1.5
+    - 3
+    - 5
+    cashMutiple:
+    - 1
+  - rangeIndex: 6
+    maxGoldReward: 500
+    minGoldReward: 200
+    maxCashReward: 300
+    minCashReward: 250
+    goldMutiple:
+    - 1
+    - 1.5
+    - 3
+    - 5
+    cashMutiple:
+    - 1
+  - rangeIndex: 7
+    maxGoldReward: 500
+    minGoldReward: 200
+    maxCashReward: 120
+    minCashReward: 100
+    goldMutiple:
+    - 1
+    - 1.5
+    - 3
+    - 5
+    cashMutiple:
+    - 1
+  - rangeIndex: 8
+    maxGoldReward: 500
+    minGoldReward: 200
+    maxCashReward: 50
+    minCashReward: 30
+    goldMutiple:
+    - 1
+    - 1.5
+    - 3
+    - 5
+    cashMutiple:
+    - 1
+  - rangeIndex: 9
+    maxGoldReward: 500
+    minGoldReward: 200
+    maxCashReward: 30
+    minCashReward: 20
+    goldMutiple:
+    - 1
+    - 1.5
+    - 3
+    - 5
+    cashMutiple:
+    - 1
+  - rangeIndex: 10
+    maxGoldReward: 500
+    minGoldReward: 200
+    maxCashReward: 20
+    minCashReward: 10
+    goldMutiple:
+    - 1
+    - 1.5
+    - 3
+    - 5
+    cashMutiple:
+    - 1
+    - 1.5
+    - 2
+    - 3
+    - 5
+  - rangeIndex: 11
+    maxGoldReward: 500
+    minGoldReward: 200
+    maxCashReward: 20
+    minCashReward: 1
+    goldMutiple:
+    - 1
+    - 1.5
+    - 3
+    - 5
+    cashMutiple:
+    - 1
+    - 1.5
+    - 2
+    - 3
+    - 5
+  MG_Dice_JackpotConfigs:
+  - noRewardRate: 50
+    goldRewardRate: 50
+    cashRewardRate: 50
+    goldPool: f4010000e8030000
+    cashPool: f4010000e8030000
+    mutiplePool:
+    - 1
+    - 1.5
+    - 3
+  - noRewardRate: 50
+    goldRewardRate: 50
+    cashRewardRate: 50
+    goldPool: f4010000e8030000
+    cashPool: f4010000e8030000
+    mutiplePool:
+    - 1
+    - 1.5
+    - 3
+  - noRewardRate: 50
+    goldRewardRate: 50
+    cashRewardRate: 50
+    goldPool: f4010000e8030000
+    cashPool: f4010000e8030000
+    mutiplePool:
+    - 1
+    - 1.5
+    - 3
+  - noRewardRate: 50
+    goldRewardRate: 50
+    cashRewardRate: 50
+    goldPool: f4010000e8030000
+    cashPool: fa000000f4010000
+    mutiplePool:
+    - 1
+    - 1.5
+    - 3
+  - noRewardRate: 50
+    goldRewardRate: 50
+    cashRewardRate: 50
+    goldPool: f4010000e8030000
+    cashPool: fa000000f4010000
+    mutiplePool:
+    - 1
+    - 1.5
+    - 3
+  - noRewardRate: 50
+    goldRewardRate: 5
+    cashRewardRate: 45
+    goldPool: f4010000e8030000
+    cashPool: fa000000f4010000
+    mutiplePool:
+    - 1
+    - 1.5
+    - 3
+  - noRewardRate: 50
+    goldRewardRate: 20
+    cashRewardRate: 30
+    goldPool: f4010000e8030000
+    cashPool: 3200000064000000
+    mutiplePool:
+    - 1
+    - 1.5
+    - 3
+  - noRewardRate: 50
+    goldRewardRate: 30
+    cashRewardRate: 20
+    goldPool: f4010000e803000088130000
+    cashPool: 3200000064000000
+    mutiplePool:
+    - 1
+    - 1.5
+  - noRewardRate: 50
+    goldRewardRate: 40
+    cashRewardRate: 10
+    goldPool: f4010000e803000088130000
+    cashPool: 32000000
+    mutiplePool:
+    - 1
+    - 1.5
+  - noRewardRate: 50
+    goldRewardRate: 45
+    cashRewardRate: 5
+    goldPool: f4010000e803000088130000
+    cashPool: 32000000
+    mutiplePool:
+    - 1
+    - 1.5
+  - noRewardRate: 50
+    goldRewardRate: 50
+    cashRewardRate: 0
+    goldPool: f4010000e803000088130000
+    cashPool: 32000000
+    mutiplePool:
+    - 1
+    - 1.5
+  - noRewardRate: 50
+    goldRewardRate: 50
+    cashRewardRate: 0
+    goldPool: f4010000e803000088130000
+    cashPool: 05000000
+    mutiplePool:
+    - 1
+    - 1.5
+  MG_Dice_BricksConfigs:
+  - brickType: 0
+    minRandomNum: 1
+    maxRandomNum: 2
+    weight: 200
+    maxCanGetValue: 2300
+  - brickType: 1
+    minRandomNum: 5
+    maxRandomNum: 8
+    weight: 200
+    maxCanGetValue: -1
+  - brickType: 2
+    minRandomNum: 1
+    maxRandomNum: 2
+    weight: 300
+    maxCanGetValue: -1
+  - brickType: 3
+    minRandomNum: 1
+    maxRandomNum: 1
+    weight: 800
+    maxCanGetValue: -1
+  - brickType: 4
+    minRandomNum: 1
+    maxRandomNum: 2
+    weight: 200
+    maxCanGetValue: 2300
+  - brickType: 5
+    minRandomNum: 0
+    maxRandomNum: 100
+    weight: 80
+    maxCanGetValue: -1
+  MG_Scratch_Configs:
+  - RnageCashStart: 0
+    minScratchTimes: 2
+    maxScratchTimes: 3
+    minCash: 100
+    maxCash: 120
+    RnageSssStart: 0
+    sssWeight: 50
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 100000
+    minScratchTimes: 2
+    maxScratchTimes: 3
+    minCash: 100
+    maxCash: 120
+    RnageSssStart: 1000
+    sssWeight: 50
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 150000
+    minScratchTimes: 2
+    maxScratchTimes: 3
+    minCash: 100
+    maxCash: 120
+    RnageSssStart: 1500
+    sssWeight: 50
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 180000
+    minScratchTimes: 2
+    maxScratchTimes: 3
+    minCash: 80
+    maxCash: 120
+    RnageSssStart: 1800
+    sssWeight: 50
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 200000
+    minScratchTimes: 2
+    maxScratchTimes: 3
+    minCash: 80
+    maxCash: 120
+    RnageSssStart: 2000
+    sssWeight: 50
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 210000
+    minScratchTimes: 2
+    maxScratchTimes: 3
+    minCash: 80
+    maxCash: 120
+    RnageSssStart: 2100
+    sssWeight: 50
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 220000
+    minScratchTimes: 5
+    maxScratchTimes: 10
+    minCash: 80
+    maxCash: 120
+    RnageSssStart: 2200
+    sssWeight: 50
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 221000
+    minScratchTimes: 5
+    maxScratchTimes: 10
+    minCash: 80
+    maxCash: 120
+    RnageSssStart: 2210
+    sssWeight: 50
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 223000
+    minScratchTimes: 10
+    maxScratchTimes: 15
+    minCash: 30
+    maxCash: 50
+    RnageSssStart: 2230
+    sssWeight: 50
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 225000
+    minScratchTimes: 10
+    maxScratchTimes: 15
+    minCash: 10
+    maxCash: 30
+    RnageSssStart: 2250
+    sssWeight: 40
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 229000
+    minScratchTimes: 20
+    maxScratchTimes: 25
+    minCash: 10
+    maxCash: 20
+    RnageSssStart: 2290
+    sssWeight: 30
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 232000
+    minScratchTimes: 999
+    maxScratchTimes: 999
+    minCash: 10
+    maxCash: 20
+    RnageSssStart: 2320
+    sssWeight: 20
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 234000
+    minScratchTimes: 999
+    maxScratchTimes: 999
+    minCash: 10
+    maxCash: 20
+    RnageSssStart: 2340
+    sssWeight: 10
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  - RnageCashStart: 235000
+    minScratchTimes: 999
+    maxScratchTimes: 999
+    minCash: 10
+    maxCash: 20
+    RnageSssStart: 2350
+    sssWeight: 0
+    goldWeight: 50
+    minGold: 200
+    maxGold: 900
+  MG_Slots_Configs:
+  - rewardType: 0
+    weight: 500
+    rewardThisWhereIndex: 0200000009000000
+    rewardPercentRangeMin: 1000
+    rewardPercentRangeMax: 1500
+    maxCanGetValue: -1
+  - rewardType: 1
+    weight: 200
+    rewardThisWhereIndex: 01000000
+    rewardPercentRangeMin: 2500
+    rewardPercentRangeMax: 2500
+    maxCanGetValue: 3500000
+  - rewardType: 2
+    weight: 30
+    rewardThisWhereIndex: 05000000
+    rewardPercentRangeMin: 2
+    rewardPercentRangeMax: 3
+    maxCanGetValue: 230000
+  - rewardType: 3
+    weight: 30
+    rewardThisWhereIndex: 08000000
+    rewardPercentRangeMin: 1
+    rewardPercentRangeMax: 1
+    maxCanGetValue: 230000
+  - rewardType: 4
+    weight: 300
+    rewardThisWhereIndex: 04000000
+    rewardPercentRangeMin: 0
+    rewardPercentRangeMax: 0
+    maxCanGetValue: 2300
+  - rewardType: 5
+    weight: 300
+    rewardThisWhereIndex: 07000000
+    rewardPercentRangeMin: 0
+    rewardPercentRangeMax: 0
+    maxCanGetValue: 2300
+  - rewardType: 6
+    weight: 300
+    rewardThisWhereIndex: 0b000000
+    rewardPercentRangeMin: 0
+    rewardPercentRangeMax: 0
+    maxCanGetValue: 2300
+  - rewardType: 7
+    weight: 0
+    rewardThisWhereIndex: ffffffff
+    rewardPercentRangeMin: 0
+    rewardPercentRangeMax: 0
+    maxCanGetValue: -1
+  - rewardType: 8
+    weight: 500
+    rewardThisWhereIndex: ffffffff
+    rewardPercentRangeMin: 0
+    rewardPercentRangeMax: 0
+    maxCanGetValue: -1
+  - rewardType: 9
+    weight: 500
+    rewardThisWhereIndex: ffffffff
+    rewardPercentRangeMin: 0
+    rewardPercentRangeMax: 0
+    maxCanGetValue: -1
+  MG_Wheel_Configs:
+  - rewardType: 0
+    rewardNum: 500
+    weight: 5000
+    rewardThisWhereIndex: 2
+    maxCanGetValue: -1
+  - rewardType: 1
+    rewardNum: 100
+    weight: 1000
+    rewardThisWhereIndex: 3
+    maxCanGetValue: 230000
+  - rewardType: 2
+    rewardNum: 1
+    weight: 1000
+    rewardThisWhereIndex: 6
+    maxCanGetValue: -1
+  - rewardType: 0
+    rewardNum: 1000
+    weight: 5000
+    rewardThisWhereIndex: -1
+    maxCanGetValue: -1
+  - rewardType: 3
+    rewardNum: 1
+    weight: 1000
+    rewardThisWhereIndex: 4
+    maxCanGetValue: 230000
+  - rewardType: 4
+    rewardNum: 1
+    weight: 5000
+    rewardThisWhereIndex: 5
+    maxCanGetValue: 2300
+  - rewardType: 0
+    rewardNum: 2500
+    weight: 800
+    rewardThisWhereIndex: -1
+    maxCanGetValue: -1
+  - rewardType: 1
+    rewardNum: 1000
+    weight: 1000
+    rewardThisWhereIndex: 1
+    maxCanGetValue: 230000
+  - rewardType: 5
+    rewardNum: 2
+    weight: 500
+    rewardThisWhereIndex: 7
+    maxCanGetValue: -1
+  - rewardType: 0
+    rewardNum: 5000
+    weight: 300
+    rewardThisWhereIndex: -1
+    maxCanGetValue: -1
+  - rewardType: 3
+    rewardNum: 1
+    weight: 1000
+    rewardThisWhereIndex: -1
+    maxCanGetValue: 230000
+  - rewardType: 4
+    rewardNum: 1
+    weight: 5000
+    rewardThisWhereIndex: -1
+    maxCanGetValue: 2300
+  MG_OutWheel_Configs:
+  - rewardType: 7
+    rewardNum: 800
+    weight: 1000
+    rewardThisWhereIndex: 1
+    maxCanGetValue: 1300000
+  - rewardType: 5
+    rewardNum: 2
+    weight: 50
+    rewardThisWhereIndex: 2
+    maxCanGetValue: -1
+  - rewardType: 0
+    rewardNum: 1000
+    weight: 500
+    rewardThisWhereIndex: 3
+    maxCanGetValue: -1
+  - rewardType: 7
+    rewardNum: 900
+    weight: 500
+    rewardThisWhereIndex: -1
+    maxCanGetValue: 1300000
+  - rewardType: 6
+    rewardNum: 1000
+    weight: 50
+    rewardThisWhereIndex: 5
+    maxCanGetValue: 3500000
+  - rewardType: 0
+    rewardNum: 2000
+    weight: 200
+    rewardThisWhereIndex: -1
+    maxCanGetValue: -1
+  - rewardType: 7
+    rewardNum: 1000
+    weight: 1000
+    rewardThisWhereIndex: -1
+    maxCanGetValue: 1300000
+  - rewardType: 6
+    rewardNum: 500
+    weight: 100
+    rewardThisWhereIndex: -1
+    maxCanGetValue: 3500000
+  - rewardType: 0
+    rewardNum: 3000
+    weight: 200
+    rewardThisWhereIndex: 7
+    maxCanGetValue: -1
+  - rewardType: 7
+    rewardNum: 1300
+    weight: 1000
+    rewardThisWhereIndex: -1
+    maxCanGetValue: 1300000
+  - rewardType: 2
+    rewardNum: 1
+    weight: 100
+    rewardThisWhereIndex: 12
+    maxCanGetValue: -1
+  - rewardType: 0
+    rewardNum: 3000
+    weight: 300
+    rewardThisWhereIndex: -1
+    maxCanGetValue: -1

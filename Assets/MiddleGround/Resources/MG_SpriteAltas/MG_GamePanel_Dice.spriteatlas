@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MG_GamePanel_Dice
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7bed8251ae419c246922ede17800b265, type: 3}
+    totalSpriteSurfaceArea: 3447280
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9156b32039ebcb548b5a6f63a326540b, type: 3}
+  - {fileID: 21300000, guid: 3ce3c7402145ecc4396eb4a127a144dd, type: 3}
+  - {fileID: 21300000, guid: 9acd1231edbd5dd4fa943def6542f839, type: 3}
+  - {fileID: 21300000, guid: 3468b7d12e570ec4ab0f4f8f40a88923, type: 3}
+  - {fileID: 21300000, guid: 2d5b2b222ef527848abf84c8f429c918, type: 3}
+  - {fileID: 21300000, guid: f68dd732946975a4fae8397b40e23c91, type: 3}
+  - {fileID: 21300000, guid: e598f572134856a498a0e9c00a7ec6e2, type: 3}
+  - {fileID: 21300000, guid: 5ac523b24d179f44d8044d071602edbc, type: 3}
+  - {fileID: 21300000, guid: 97c7bde23ddefa044acbb721af7d7279, type: 3}
+  - {fileID: 21300000, guid: e9903a231349a6f45828de667d8b00a3, type: 3}
+  - {fileID: 21300000, guid: 81c852339be680e47a4a1f4b7618e018, type: 3}
+  - {fileID: 21300000, guid: 4c93124348d47e940947a6a8b1421116, type: 3}
+  - {fileID: 21300000, guid: e0a682935b2a6ef438cd77126f8aebd1, type: 3}
+  - {fileID: 21300000, guid: 79e107b39a27b5643b2d9ce612c00664, type: 3}
+  - {fileID: 21300000, guid: 4ad270f37a9b65d45aea9e20fbbbbb13, type: 3}
+  - {fileID: 21300000, guid: 2863e834ce7ed914895e99f2e2bcc3be, type: 3}
+  - {fileID: 21300000, guid: e4927ca490e433347aec9995339e8e3e, type: 3}
+  - {fileID: 21300000, guid: 3c7648b4f322c8149a50e11bab0fcc10, type: 3}
+  - {fileID: 21300000, guid: d6be28c440b067f409ed1dcb52659a0f, type: 3}
+  - {fileID: 21300000, guid: f296a307bc295ca47b6fa4e392e79b7b, type: 3}
+  - {fileID: 21300000, guid: 5681ba37ab9b6a34cb19feb41a0b3574, type: 3}
+  - {fileID: 21300000, guid: cabcb1478c3b1ce41960ca92c48e119b, type: 3}
+  - {fileID: 21300000, guid: b8c92987bce12c84280fa28ee9015bfe, type: 3}
+  - {fileID: 21300000, guid: 2af9e539fe570eb4e9c200e36994cd00, type: 3}
+  - {fileID: 21300000, guid: 124e1159035e23e48a02635297b87f06, type: 3}
+  - {fileID: 21300000, guid: da399c8903f7c1a41a820f8c699834c8, type: 3}
+  - {fileID: 21300000, guid: fbf7322aa433a674fafe9c256aa71299, type: 3}
+  - {fileID: 21300000, guid: 0df4123ad07ba274ab85f49ee0130768, type: 3}
+  - {fileID: 21300000, guid: 571720bcc6bab2944877364b5d3eaec1, type: 3}
+  - {fileID: 21300000, guid: 1b2153cce5c55714aa3b84fe246255e0, type: 3}
+  - {fileID: 21300000, guid: 84cf96ccb7106f249a375628e2756fd6, type: 3}
+  - {fileID: 21300000, guid: e3b2e49d284c2764f956dd8dc5824652, type: 3}
+  - {fileID: 21300000, guid: 2318dc7f7578d2c49ae5095f247fd367, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MG_Sprite_DiceGfit
+  - MG_Sprites_DiceAniamtion1
+  - MG_Sprite_DiceCharacter
+  - MG_Sprites_DiceAniamtion7
+  - MG_Sprites_Dice1
+  - MG_Sprite_DiceEnergy
+  - MG_Sprite_Common_ShortButton 1
+  - MG_Sprites_Dice4
+  - MG_Sprite_DiceStart
+  - MG_Sprites_Dice2
+  - MG_Sprites_DiceAniamtion10
+  - MG_Sprite_Common_BlackalphaBG 1
+  - MG_Sprites_DiceAniamtion3
+  - MG_Sprite_DicePath
+  - MG_Sprites_Dice5
+  - MG_Sprites_DiceAniamtion4
+  - MG_Sprites_DiceAniamtion9
+  - MG_Sprites_DiceOldBrick
+  - MG_Sprites_DiceAniamtion0
+  - MG_Sprite_DiceSlots
+  - MG_Sprites_DiceAniamtion8
+  - MG_Sprites_Dice0
+  - MG_Sprite_DiceCash
+  - MG_Sprite_DiceGold
+  - MG_Sprite_DiceAmazon
+  - MG_Sprites_Dice3
+  - MG_Sprites_DiceAniamtion5
+  - MG_Sprites_DiceAniamtion2
+  - MG_Sprites_DiceAniamtion6
+  - MG_Sprites_DiceAniamtion11
+  - MG_Sprite_DiceEmpty
+  - MG_Sprite_DiceScratch
+  - MG_Sprites_DiceAniamtion12
+  m_Tag: MG_GamePanel_Dice
+  m_IsVariant: 0

@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MG_GamePanel_Scratch
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c36a4a68159acc14cada900b03800649, type: 3}
+    totalSpriteSurfaceArea: 2797291
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 35f65aa0776ddfe4ab7d193bdc2f2e1d, type: 3}
+  - {fileID: 21300000, guid: 56f49221445f0f244a06f779fd4f0e12, type: 3}
+  - {fileID: 21300000, guid: e16b7831c1fbfed40939f933441153a5, type: 3}
+  - {fileID: 21300000, guid: c2bdd84151c4be04a9b3f9fcce81742d, type: 3}
+  - {fileID: 21300000, guid: b113d712cc69bc243bf25b38f1af9ac1, type: 3}
+  - {fileID: 21300000, guid: ecc1c43202e2c0b459b9421961791432, type: 3}
+  - {fileID: 21300000, guid: 1cff4342962356a4f9a8c79139cd14bd, type: 3}
+  - {fileID: 21300000, guid: 73d96d52f0cbad14295a8caea8ab4eb4, type: 3}
+  - {fileID: 21300000, guid: cba6a6728903db843964ee47c73b5897, type: 3}
+  - {fileID: 21300000, guid: fbd1e1b2e1e388c47bdeac894a200abc, type: 3}
+  - {fileID: 21300000, guid: e69d8503bf844954bb03817e778381a2, type: 3}
+  - {fileID: 21300000, guid: b7c774040d2bd664da8637a839348380, type: 3}
+  - {fileID: 21300000, guid: 604b94d4b95c48a41908ecf382a90d80, type: 3}
+  - {fileID: 21300000, guid: 8430c795096180946903220cf2480dd1, type: 3}
+  - {fileID: 21300000, guid: 19c058b5c11f16e4fbccaa741ebee237, type: 3}
+  - {fileID: 21300000, guid: 12e5f91783ecde347bc7360d8ae3f605, type: 3}
+  - {fileID: 21300000, guid: 50f87e67429a0764896418b25e6b2df2, type: 3}
+  - {fileID: 21300000, guid: 4bdc86b7b2ac1a94cbb052b50be19e0f, type: 3}
+  - {fileID: 21300000, guid: 9442c028af13307428469bca4d5d86dc, type: 3}
+  - {fileID: 21300000, guid: c04d9f38bea897941b9e4aa0d1ad3b65, type: 3}
+  - {fileID: 21300000, guid: 765b9b090f2dc944b930e96d1062b796, type: 3}
+  - {fileID: 21300000, guid: 1e55c4799315210479b5a71467b312f6, type: 3}
+  - {fileID: 21300000, guid: d1df024a93de8ef468059d9242d240e0, type: 3}
+  - {fileID: 21300000, guid: 85fbd5ca289d3614393082957d7deadd, type: 3}
+  - {fileID: 21300000, guid: 6742485bef2cdb54d951f23ca158f828, type: 3}
+  - {fileID: 21300000, guid: 89cc72db5205d5944a10e61838554d9d, type: 3}
+  - {fileID: 21300000, guid: d93886ccc6cf2ce45a3c8ddb4a824d9f, type: 3}
+  - {fileID: 21300000, guid: 5cff314dcdb60cf469a9e8fa5980d62e, type: 3}
+  - {fileID: 21300000, guid: 5cde199e4b7b3b149bc2a79917c0db41, type: 3}
+  - {fileID: 21300000, guid: 3d6e848ff21d03648ba763cd3479ddd2, type: 3}
+  - {fileID: 21300000, guid: 3c578bffaf4576b4c82d199c222eaa36, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MG_Sprite_Common_BlackalphaBG 1
+  - MG_Sprite_Scratch_T0
+  - MG_Sprite_Scratch_T8
+  - MG_Sprite_Scratch_T9
+  - MG_Sprite_Scratch_N0
+  - MG_Sprite_Scratch_Handle
+  - MG_Sprite_Scratch_T2
+  - MG_Sprite_Scratch_T6
+  - MG_Sprite_Scratch_T3
+  - MG_Sprite_Scratch_CardBG
+  - MG_Sprite_Scratch_N1
+  - MG_Sprite_Scratch_N4
+  - MG_Sprite_Scratch_CardBase
+  - MG_Sprite_Scratch_ScratchTicket
+  - MG_Sprite_Common_Lock 1
+  - MG_Sprite_Scratch_N3
+  - MG_Sprite_Scratch_N2
+  - MG_Sprite_Scratch_CardMask
+  - MG_Sprite_Scratch_Brush
+  - MG_Sprite_Scratch_Ticket
+  - MG_Sprite_Scratch_N9
+  - MG_Sprite_Scratch_N7
+  - MG_Sprite_Scratch_N8
+  - MG_Sprite_Common_LongButton 1
+  - MG_Sprite_Scratch_T7
+  - MG_Sprite_Scratch_T1
+  - MG_Sprite_Scratch_N6
+  - MG_Sprite_Scratch_T5
+  - MG_Sprite_Scratch_N5
+  - MG_Sprite_Scratch_T4
+  - MG_Sprite_Common_AdIcon 1
+  m_Tag: MG_GamePanel_Scratch
+  m_IsVariant: 0
